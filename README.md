@@ -1,4 +1,4 @@
-### Hey there, I'm Jay 👋
+### Hey there, I'm Jae 👋
 I'm a Software Development student, currently on my 2nd year at SAIT. On this page you'll find various projects I've done along with projects that I am currently working on.
 <p align="center">
   <samp>
