@@ -2,7 +2,7 @@
 I'm a Software Development student, currently on my 2nd year at SAIT. On this page you'll find various projects I've done along with projects that I am currently working on.
 <p align="center">
   <samp>
-    <a href="https://www.linkedin.com/in/jae01ortiz/">LinkedIn</a>
+    <a href="https://www.linkedin.com/in/jae01ortiz/">LinkedIn</a> | <a href="https://www.jeremiahortiz.ca/">Personal Website</a>
   </samp>
 </p>
 <!--
